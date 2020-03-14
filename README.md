@@ -1,7 +1,6 @@
 # calculatorReact
 Calculadora feita em React.js com as funções básicas C 'clear' AC 'all clear', ponto flutuante e etc...
-
-[Acesse a aplicação em tempo real!](https://nicolas-oliveira.github.io/calculator-react/)
+<a href="https://nicolas-oliveira.github.io/calculator-react/" target="_blank">Acesse a aplicação em tempo real!</a><br>
 ### Pré-requisitos
 Os requisitos para executar na máquina estão compostos pelo react e as suas especificações do arquivo package.json:<br>
 ```
@@ -11,9 +10,11 @@ Os requisitos para executar na máquina estão compostos pelo react e as suas es
 ```
 #### Windows
 Node:<br>
-[Install Node.js link](https://nodejs.org/en/download/)<br>
+<a href="https://nodejs.org/en/download/" target="_blank">Install Node.js link</a><br>
+
 NPM:<br>
-[Install npm link](https://www.npmjs.com/get-npm)<br>
+[]()<br>
+<a href="https://www.npmjs.com/get-npm" target="_blank">Install npm link</a>
 #### Ubuntu
 Node:<br>
 ```git clone https://github.com/nodejs/node.git```<br>
