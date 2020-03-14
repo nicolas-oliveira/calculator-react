@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:100&display=swap");
+html,
+body {
+  margin: 0;
+  bottom: 0;
+  box-sizing: border-box;
+  background: #48458f;
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  max-width: 600px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(8, 12.5vh);
+  grid-template-areas:
+    "out out out out"
+    "out out out out"
+    "out out out out"
+    "a b c d"
+    "e f g h"
+    "i j k l"
+    "m n o p"
+    "q q r s";
+  -webkit-box-shadow: -2px 3px 34px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -2px 3px 34px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: -2px 3px 34px 1px rgba(0, 0, 0, 0.75);
+}
+div.button {
+  padding: 25px;
+  border: 1px solid #1414143d;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+div#viewer ~ .button:active {
+  background: grey;
+  color: white;
+}
+div#viewer ~ .button:hover {
+  cursor: pointer;
+}
+#viewer {
+  background: #141414;
+  grid-area: out;
+  font-size: 90px;
+  color: white;
+  border: none;
+}
+#viewer span {
+  align-items: right;
+}
+/* Simbolos */
+#a {
+  grid-area: a;
+  color: #f07777;
+  background: rgb(204, 204, 204);
+} /* c */
+#b {
+  grid-area: b;
+  color: #f07777;
+  background: rgb(204, 204, 204);
+} /* +- */
+#c {
+  grid-area: c;
+  color: #6360ff;
+  background: rgb(209, 209, 209);
+} /* % */
+
+#d {
+  grid-area: d;
+  font-size: 60px;
+  color: white;
+  background: #7977f0;
+} /* divisao */
+#h {
+  grid-area: h;
+  color: white;
+  background: #7977f0;
+} /* multiplicacao */
+#l {
+  grid-area: l;
+  color: white;
+  background: #7977f0;
+} /* subtracao */
+
+#p {
+  grid-area: p;
+  color: white;
+  background: #7977f0;
+} /* soma */
+#s {
+  grid-area: s;
+  color: white;
+  background: #7977f0;
+} /* igual */
+
+/* Numeros */
+#e {
+  grid-area: e;
+} /* 7 */
+#f {
+  grid-area: f;
+} /* 8 */
+#g {
+  grid-area: g;
+} /* 9 */
+
+#i {
+  grid-area: i;
+} /* 4 */
+#j {
+  grid-area: j;
+} /* 5 */
+#k {
+  grid-area: k;
+} /* 6 */
+
+#m {
+  grid-area: m;
+} /* 1 */
+#n {
+  grid-area: n;
+} /* 2 */
+#o {
+  grid-area: o;
+} /* 3 */
+
+#q {
+  grid-area: q;
+} /* 0 */
+#r {
+  grid-area: r;
+} /* ponto */
