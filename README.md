@@ -16,12 +16,12 @@ NPM:<br>
 [Install npm link](https://www.npmjs.com/get-npm)<br>
 #### Ubuntu
 Node:<br>
-```git clone https://github.com/nodejs/node.git```
-```cd node```
+```git clone https://github.com/nodejs/node.git```<br>
+```cd node```<br>
 NPM:<br>
-```curl -L https://npmjs.org/install.sh | sudo sh```
-```npm -v```
-Após isso rode o seguinte comando:
+```curl -L https://npmjs.org/install.sh | sudo sh```<br>
+```npm -v```<br>
+Após isso rode o seguinte comando:<br>
 ```npm install react -g```
 ### Instalação
 Para instalar na sua máquina clone o repositório e execute no terminal da pasta e rode:<br>
