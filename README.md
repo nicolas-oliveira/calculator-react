@@ -8,6 +8,7 @@ Os requisitos para executar na máquina estão compostos pelo react e as suas es
 - NPM
 - React
 ```
+### Instalação
 #### Windows
 Node:<br>
 <a href="https://nodejs.org/en/download/" target="_blank">Install Node.js link</a><br>
@@ -23,9 +24,9 @@ NPM:<br>
 ```curl -L https://npmjs.org/install.sh | sudo sh```<br>
 ```npm -v```<br>
 Após isso rode o seguinte comando:<br>
-```npm install react -g```
-### Instalação
-Para instalar na sua máquina clone o repositório e execute no terminal da pasta e rode:<br>
+```npm install react -g```<br>
+
+Para inicializar na sua máquina clone o repositório e execute no terminal da pasta e rode:<br>
 ```react start```
 ![Imagem](https://raw.githubusercontent.com/nicolas-oliveira/images/master/calculator-react.png)
 ## Autores
