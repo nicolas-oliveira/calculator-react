@@ -1,6 +1,6 @@
 {
-  "homepage": "https://nicolas-oliveira.github.io/calculator-react/",
-  "name": "calculator-react",
+  "homepage": "https://nicolas-oliveira.github.io/calculatorReact/",
+  "name": "calculatorReact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
