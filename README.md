@@ -4,7 +4,7 @@
   <a href="https://nicolas-oliveira.github.io/calculator-react/">Acesse a aplicação em tempo real!</a>
 </p>
 
-#Pré-requisitos
+# Pré-requisitos
 Os requisitos para executar na máquina estão compostos pelo react e as suas especificações do arquivo package.json:<br>
 
 ```
