@@ -4,6 +4,8 @@
   <a href="https://nicolas-oliveira.github.io/calculator-react/">Acesse a aplicação em tempo real!</a>
 </p>
 
+![Imagem](https://raw.githubusercontent.com/nicolas-oliveira/calculator-react/master/.github/calculator-react.png)
+
 # Pré-requisitos
 Os requisitos para executar na máquina estão compostos pelo react e as suas especificações do arquivo package.json:<br>
 
@@ -32,7 +34,7 @@ Após isso rode o seguinte comando:<br>
 
 Para inicializar na sua máquina clone o repositório e execute no terminal da pasta e rode:<br>
 ```react start```
-![Imagem](https://raw.githubusercontent.com/nicolas-oliveira/calculator-react/master/.github/calculator-react.png)
+
 ## Autores
 
 * **Nicolas Oliveira** - *Iniciativa* - [nicolas-oliveira](https://github.com/nicolas-oliveira)
