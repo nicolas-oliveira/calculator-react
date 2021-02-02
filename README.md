@@ -1,4 +1,4 @@
-<h1 align="center">calculatorReact</h1>
+<h1 align="center">Calculadora feita React</h1>
 <p align="center">Calculadora feita em React.js com as funções básicas C 'clear' AC 'all clear', ponto flutuante e etc...</p>
 <p align="center">
   <a href="https://nicolas-oliveira.github.io/calculator-react/">Acesse a aplicação em tempo real!</a>
